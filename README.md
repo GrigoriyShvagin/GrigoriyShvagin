@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div class="main-block">
-        <h1 text-align="center">Всем привет, я Гриша.</h1>
+    <div class="main-block" align="center">
+        <h1 align="center">Всем привет, я Гриша.</h1>
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
-        <h3 text-align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
+        <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer">
         <br>
         <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" height="48px">
