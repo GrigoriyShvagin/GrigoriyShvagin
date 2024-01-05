@@ -13,7 +13,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" height="48px">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="48px">
     </div>
-    <h1 align="center">Как со мной связаться? <img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/Telegram.svg" width = "50" href="https://t.me/geteroseksua_l"></h1>
+    <h1 align="center">Как со мной связаться? <img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "50" href="https://t.me/geteroseksua_l"></h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geteroseksuAll" align ="center">
 </body>
 </html>
