@@ -7,13 +7,13 @@
 <body>
     <div class="main-block" align="center">
         <h1 align="center">Всем привет, я Гриша.
-        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
-        <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия". Делал сайты на Tilda (не особо хочу этим заниматься), но есть знания.</h3>
-        <h3 align="center">Изучаю Vue с января 2023 года. На  05.01.2024 Я был на 5 хакатонах, один закончился успешно. Закрыты 3 проекта, один из них - <a href="https://geteroseksuall.github.io/tls-site/">Сайт Технополиса</a></h3>
-        <h3 align="center">Хотел бы найти команду, ведь так ты развиваешься в разы быстрее. </h3>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" height="48px">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="48px">
+        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
+        <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
+        <h3 align="center">Изучаю Vue с января 2023 года. На  05.01.2024 Я был на 5 хакатонах, один закончился успешно. Закрыты 3 проекта, один из них - <a href="https://geteroseksuall.github.io/tls-site/">Сайт Технополиса</a></h3>
+        <h3 align="center">Хотел бы найти команду, ведь так ты развиваешься в разы быстрее. </h3>
     </div>
     <h1 align = "center" height="60">Как со мной связаться? <img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" href="https://vk.com/dafak_sheesh"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center" href="https://t.me/geteroseksua_l"></h1>
     <div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geteroseksuAll" align ="center"></div>
