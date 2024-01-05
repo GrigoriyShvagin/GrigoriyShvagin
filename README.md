@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div class="main-block" style="background-color:bisque; text-align:center">
+    <div class="main-block" align="center">
         <h1 align="center">Всем привет, я Гриша.
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
         <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
