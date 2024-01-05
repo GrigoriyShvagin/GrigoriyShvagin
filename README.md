@@ -14,6 +14,6 @@
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="48px">
     </div>
     <h1 align = "center" height="60">Как со мной связаться? <img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" href="https://vk.com/dafak_sheesh"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center" href="https://t.me/geteroseksua_l"></h1>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geteroseksuAll" align ="center">
+    <div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geteroseksuAll" align ="center"></div>
 </body>
 </html>
