@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="main-block" align="center">
-        <h1 align="center">Всем привет, я Гриша.</h1>
+        <h1 align="center">Всем привет, я Гриша.
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
         <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer" align="center">
