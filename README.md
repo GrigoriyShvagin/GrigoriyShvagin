@@ -15,7 +15,7 @@
         <h3 align="center">Изучаю Vue с января 2023 года. На  05.01.2024 Я был на 5 хакатонах, один закончился успешно. Закрыты 3 проекта, один из них - <a href="https://geteroseksuall.github.io/tls-site/">Сайт Технополиса</a></h3>
         <h3 align="center">Хотел бы найти команду, ведь так ты развиваешься в разы быстрее. </h3>
     </div>
-    <h1 align = "center" height="60">Как со мной связаться? <img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" href="https://vk.com/dafak_sheesh"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center" href="https://t.me/geteroseksua_l"></h1>
+    <h1 align = "center" height="60">Как со мной связаться? <a href="https://vk.com/dafak_sheesh"><img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" "></a><a  href="https://t.me/geteroseksua_l"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center"></a></h1>
     <div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geteroseksuAll" align ="center"></div>
 </body>
 </html>
