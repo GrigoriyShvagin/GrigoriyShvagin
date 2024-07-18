@@ -14,7 +14,7 @@
         <h3 align="center">Учусь в Казани, в КАИ на направлении "программная инженерия".</h3>
         <h3 align="center">Изучаю Vue с января 2023 года. На  04.06.2024 Я был на 6 хакатонах, двое закончились успешно. Закрыты 6 проектов, 4 месяца работал в ООО "Арвенго", писал маркетплейс. Также активно работал в BadStory Company - digital агенство.</h3>
     </div>
-    <h1 align = "center" height="60">Как со мной связаться? <a href="https://vk.com/dafak_sheesh"><img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" "></a><a  href="https://t.me/geteroseksua_l"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center"></a></h1>
+    <h1 align = "center" height="60">Как со мной связаться? <a href="https://vk.com/dafak_sheesh"><img src ="https://logospng.org/download/vk/vk-4096.png" width = "60" align="center" "></a><a  href="https://t.me/mapActions"><img src="https://static.tildacdn.com/tild6430-6637-4463-a133-393734623961/DA5E0FDF-7244-4CA0-B.PNG" width = "60" align="center"></a></h1>
     <div align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyShvagin" align ="center"></div>
 </body>
 </html>
